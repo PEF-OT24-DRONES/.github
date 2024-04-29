@@ -1,4 +1,4 @@
-# 🤖Welcome To Our DRONE PEF OT24
+# Welcome To Our DRONE PEF OT24
 
 Este es la organizción de nuestro PEF relacionado con DRONES. En esta organización compartiremos en diferentes repositorios los Diseños CAD, Eléctricos, Códigos, Documentación, etc.
 
@@ -13,15 +13,15 @@ Este es la organizción de nuestro PEF relacionado con DRONES. En esta organizac
 
 ## Proyectos Activos
 
-- Windshield Simulator
 - Dron Testing Platform
+- Charging Station for Swarming Drones
 
 
 # Guidelines
 
 # Members
 
-- Asesor : [Fermín Castro]()
+- *Asesor :* [Fermín Castro]()
 - [Alberto Castro](https://github.com/albertocastrovill)
 - [Eduardo Castro]()
 - [Ana Bárbara Quintero]()
