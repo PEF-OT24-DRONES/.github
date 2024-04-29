@@ -1,4 +1,4 @@
-# Welcome To Our DRONE PEF OT24
+# DRONE PEF OT24
 
 Este es la organizción de nuestro PEF relacionado con DRONES. En esta organización compartiremos en diferentes repositorios los Diseños CAD, Eléctricos, Códigos, Documentación, etc.
 
