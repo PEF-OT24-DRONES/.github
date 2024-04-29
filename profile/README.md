@@ -24,5 +24,5 @@ Este es la organizción de nuestro PEF relacionado con DRONES. En esta organizac
 - *Asesor :* [Fermín Castro](https://github.com/Aragonvi6)
 - [Alberto Castro](https://github.com/albertocastrovill)
 - [Eduardo Castro](https://github.com/eduardocastro2)
-- [Ana Bárbara Quintero]()
+- [Ana Bárbara Quintero](https://github.com/anaquinterog)
 
